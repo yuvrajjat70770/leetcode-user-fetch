@@ -31,5 +31,5 @@ I recently started learning **web development** and explored **Fetch API, JSON d
 ### 📌 How to Run the Project Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
+   git clone https://github.com/yuvrajjat70770/leetcode-user-fetch.git
 # leetcode-user-fetch
